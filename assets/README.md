@@ -1,19 +1,15 @@
-# HORISEON
+# HTML-CSS-Refactor
 
-Horiseon is a multi-improvement software team focusing on factors such as SEO, Online Reputation Management, and Social Media Marketing.
+## Description
+A website improvement project for SEO optimization, primary task is HTML/CSS refactoring.
 
-## CODE NEEDING IMPROVING
+## Usage
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-title: no title for webpage
-navbar: all links do not work (SEO link does not take action when clicked)
-CSS file: multiple items are repetitive, can be condensed down for better sustainability
-Content: only basic divs included, not efficient for complexity
+## Contributing
+Chris Kramer
 
-## RESOLUTION
-
-title: corrected to display Horiseon - SEO, ORM, and SMM
-navbar: SEO linked to content location on page
-CSS:    CSS condensed down for sustainability (content-layout, benefit-lead, and benefit-id used to replace repetitive classes         and ID's)
-Content: divs changed to nav, main, aside, and footer to show more specific code
-Footer: footer h3 changed to h4 for more sequential order while using headings
-
+## Questions
+If you have any questions about the repo, open an issue or contact ChrisKramer15@outlook.com
